@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "795094470978",
+    "firebase_url": "https://gethingsblogapp.firebaseio.com",
+    "project_id": "gethingsblogapp",
+    "storage_bucket": "gethingsblogapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795094470978:android:0325e1bdb6562da29978db",
+        "android_client_info": {
+          "package_name": "com.example.flutter_blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795094470978-cm9k2f4l5pkt7sevq1e6s4ohf052u8an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPnBDz54ztoQmpqWPysXEfR9D_oo7ylU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795094470978-cm9k2f4l5pkt7sevq1e6s4ohf052u8an.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795094470978-97qqipe8df1d873o49e3l5ljn6ot7nb1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterBlogApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
